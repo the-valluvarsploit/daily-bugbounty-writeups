@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯December 31, 2024 - [How I Discovered a Leaked cAdvisor Panel Dashboard on a Website](https://medium.com/@anonymousshetty2003/how-i-discovered-a-leaked-cadvisor-panel-dashboard-on-a-website-1f097b526b3e?source=rss------bug_bounty-5) 
+ - 💯January 1, 2025 - [Bypassing Email verification through HTTP response interception](https://callgh0st.medium.com/bypassing-email-verification-through-http-response-interception-7644a907899a?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2024 - [API Pentesting: Unrestricted Resource Consumption](https://devilwrites.medium.com/api-pentesting-unrestricted-resource-consumption-2692bf368575?source=rss------bug_bounty-5) 
+ - 💯January 1, 2025 - [Bug Bounty Journey in 2024](https://medium.com/@suganthankumaralingam/bug-bounty-journey-in-2024-e4f23874f991?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2024 - [Advanced Analysis: XSS Vulnerability in an AI-Powered Chatbot Service](https://medium.com/@MianHammadx0root/advanced-analysis-xss-vulnerability-in-an-ai-powered-chatbot-service-53212f545624?source=rss------bug_bounty-5) 
+ - 💯January 1, 2025 - [A Guide to MITRE ATT&amp;CK Cloud Matrices: Simplified with Examples](https://medium.com/@paritoshblogs/a-guide-to-mitre-att-ck-cloud-matrices-simplified-with-examples-2f6588b9ac0e?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2024 - [Mastering XSS in a single read!](https://anontriager.medium.com/mastering-xss-in-a-single-read-40bc850427bd?source=rss------bug_bounty-5) 
+ - 💯January 1, 2025 - [Refer Friends, Win Credit Rewards!](https://medium.com/@security.tecno/refer-friends-win-credit-rewards-574795eeb6a9?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2024 - [File upload bypass — Fuzz magic bytes / Mime types with ffuf](https://medium.com/@opabravo/file-upload-bypass-fuzz-magic-bytes-mime-types-with-ffuf-b218171533d4?source=rss------bug_bounty-5) 
+ - 💯December 31, 2024 - [Alhamdulillah ❤️](https://medium.com/@momenrezkk90/alhamdulillah-%EF%B8%8F-4c8ba456bec1?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2024 - [From Hidden Parameter to Account Takeover](https://medium.com/@radwan0x/from-hidden-parameter-to-account-takeover-e6905f35d93a?source=rss------bug_bounty-5) 
+ - 💯December 31, 2024 - [SQLi Time-Based Blind Finding Methods](https://medium.com/@erkankavas/sqli-time-based-blind-finding-methods-cdef02de2d0e?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2024 - [Vertical Privilege Escalation from Manager to Owner: A Bug Bounty Story](https://medium.com/@swaroopvenkat828/vertical-privilege-escalation-from-manager-to-owner-a-bug-bounty-story-7a039eb0b938?source=rss------bug_bounty-5) 
+ - 💯December 31, 2024 - [Old School Out-of-Band &lpar;OOB&rpar; SQL Injection Manual Approach](https://anontuttuvenus.medium.com/old-school-out-of-band-oob-sql-injection-manual-approach-cc50b81c5984?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2024 - [Sensitive Data Exposure &lpar;Tryhackme&rpar;](https://medium.com/@BetterBy0x01/sensitive-data-exposure-tryhackme-111ed71542af?source=rss------bug_bounty-5) 
+ - 💯December 31, 2024 - [Session Hijacking Vulnerability in Password Reset Flow Leading to Cross-Account Access](https://medium.com/@iPsalmy/session-hijacking-vulnerability-in-password-reset-flow-leading-to-cross-account-access-4823d88e680a?source=rss------bug_bounty-5) 
 
- - 💯December 30, 2024 - [Mastering the Art of Bug Bounty Hunting: A Step-by-Step Guide](https://medium.com/@kumawatabhijeet2002/mastering-the-art-of-bug-bounty-hunting-a-step-by-step-guide-8eaabfe1cbf6?source=rss------bug_bounty-5) 
+ - 💯December 31, 2024 - [My story of hacking Dutch Government | by Chinmaya Rana](https://chinmayarana.medium.com/my-story-of-hacking-dutch-government-by-chinmaya-rana-b54ea26c92dd?source=rss------bug_bounty-5) 
 
- - 💯December 30, 2024 - [Discovered 30 BOLA + IDOR vulnerabilities in a single subdomain &lpar;BBP&rpar;.](https://im4x.medium.com/discovered-30-bola-idor-vulnerabilities-in-a-single-subdomain-bbp-a382e4554e71?source=rss------bug_bounty-5) 
+ - 💯December 31, 2024 - [Unleashing My Recon Weapon: A Custom Bash Tool for Bug Bounty](https://medium.com/@kumawatabhijeet2002/unleashing-my-recon-weapon-a-custom-bash-tool-for-bug-bounty-d946b5f26dd9?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
