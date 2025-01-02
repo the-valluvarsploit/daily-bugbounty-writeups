@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 1, 2025 - [Bypassing Email verification through HTTP response interception](https://callgh0st.medium.com/bypassing-email-verification-through-http-response-interception-7644a907899a?source=rss------bug_bounty-5) 
+ - 💯January 2, 2025 - [How to Build a Cloud Security Monitoring Dashboard !](https://medium.com/@paritoshblogs/how-to-build-a-cloud-security-monitoring-dashboard-81951b57613f?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2025 - [Bug Bounty Journey in 2024](https://medium.com/@suganthankumaralingam/bug-bounty-journey-in-2024-e4f23874f991?source=rss------bug_bounty-5) 
+ - 💯January 2, 2025 - [A Recon Tool That Uses AI to Predict Subdomains](https://medium.com/@kumawatabhijeet2002/a-recon-tool-that-uses-ai-to-predict-subdomains-73a41aaa774d?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2025 - [A Guide to MITRE ATT&amp;CK Cloud Matrices: Simplified with Examples](https://medium.com/@paritoshblogs/a-guide-to-mitre-att-ck-cloud-matrices-simplified-with-examples-2f6588b9ac0e?source=rss------bug_bounty-5) 
+ - 💯January 2, 2025 - [Code Analysis can help you make $200-$500 &lpar;C,C++,Node and general codes&rpar;](https://medium.com/@anandrishav2228/code-analysis-can-help-you-make-200-500-c-c-node-and-general-codes-cb7752617931?source=rss------bug_bounty-5) 
 
- - 💯January 1, 2025 - [Refer Friends, Win Credit Rewards!](https://medium.com/@security.tecno/refer-friends-win-credit-rewards-574795eeb6a9?source=rss------bug_bounty-5) 
+ - 💯January 2, 2025 - [Zero Click Account Takeover](https://anontriager.medium.com/zero-click-account-takeover-7f8bdcda2236?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2024 - [Alhamdulillah ❤️](https://medium.com/@momenrezkk90/alhamdulillah-%EF%B8%8F-4c8ba456bec1?source=rss------bug_bounty-5) 
+ - 💯January 2, 2025 - [hunting #1](https://medium.com/@dark_zone/hunting-1-ee308e923359?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2024 - [SQLi Time-Based Blind Finding Methods](https://medium.com/@erkankavas/sqli-time-based-blind-finding-methods-cdef02de2d0e?source=rss------bug_bounty-5) 
+ - 💯January 2, 2025 - [Security Misconfiguration &lpar;Tryhackme&rpar;](https://medium.com/@BetterBy0x01/security-misconfiguration-tryhackme-9c763a743a71?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2024 - [Old School Out-of-Band &lpar;OOB&rpar; SQL Injection Manual Approach](https://anontuttuvenus.medium.com/old-school-out-of-band-oob-sql-injection-manual-approach-cc50b81c5984?source=rss------bug_bounty-5) 
+ - 💯January 1, 2025 - [Dive into Go: A Full Guide for Penetration Testers, Bounty Hunters, and Developers](https://medium.com/@v1xtron/dive-into-go-a-full-guide-for-penetration-testers-bounty-hunters-and-developers-5cc013d3f5c6?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2024 - [Session Hijacking Vulnerability in Password Reset Flow Leading to Cross-Account Access](https://medium.com/@iPsalmy/session-hijacking-vulnerability-in-password-reset-flow-leading-to-cross-account-access-4823d88e680a?source=rss------bug_bounty-5) 
+ - 💯January 1, 2025 - [Welcome to our first article on this account!](https://medium.com/@Dorking1/welcome-to-our-first-article-on-this-account-f7eb4049b768?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2024 - [My story of hacking Dutch Government | by Chinmaya Rana](https://chinmayarana.medium.com/my-story-of-hacking-dutch-government-by-chinmaya-rana-b54ea26c92dd?source=rss------bug_bounty-5) 
+ - 💯January 1, 2025 - [This Simple GraphQL SSRF Bug Earned  $3,000 &lpar;3/30 DAYS&rpar;](https://medium.com/@zerodaystories/this-simple-graphql-ssrf-bug-earned-me-3-000-3-30-days-9bd13e2c2f9d?source=rss------bug_bounty-5) 
 
- - 💯December 31, 2024 - [Unleashing My Recon Weapon: A Custom Bash Tool for Bug Bounty](https://medium.com/@kumawatabhijeet2002/unleashing-my-recon-weapon-a-custom-bash-tool-for-bug-bounty-d946b5f26dd9?source=rss------bug_bounty-5) 
+ - 💯January 1, 2025 - [Advanced Enumeration Techniques](https://medium.com/@phirojshah20/advanced-enumeration-techniques-45cbeb429231?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
