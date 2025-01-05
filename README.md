@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯January 4, 2025 - [Besides bXSS](https://wanderication.medium.com/besides-bxss-681f3d97cda9?source=rss------bug_bounty-5) 
+ - 💯January 5, 2025 - [My First Bug Report in Microsoft Windows Task Manager](https://medium.com/@abdullah.farwees/my-first-bug-report-in-microsoft-windows-task-manager-726972722e50?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2025 - [Account TakeOver | Abusing the Application logic flaw in the reset password functionality](https://wanderication.medium.com/account-takeover-abusing-the-application-logic-flaw-in-the-reset-password-functionality-1b0a92caafca?source=rss------bug_bounty-5) 
+ - 💯January 4, 2025 - [P4 Bugs and POC | Part 5](https://medium.com/@kumawatabhijeet2002/p4-bugs-and-poc-part-5-556962ec83f7?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2025 - [Account Takeover via Facebook Oauth](https://anontriager.medium.com/account-takeover-via-facebook-oauth-cd1f6219f7dd?source=rss------bug_bounty-5) 
+ - 💯January 4, 2025 - [What Is Cross Site Request Forgery?](https://medium.com/@dante.falls/what-is-cross-site-request-forgery-a52a48562f58?source=rss------bug_bounty-5) 
 
- - 💯January 4, 2025 - [Brute Force Attack &lpar;Owaspbwa Lab, Hydra Tool&rpar;](https://medium.com/@BetterBy0x01/brute-force-attack-owaspbwa-lab-hydra-tool-f3cd947f86bb?source=rss------bug_bounty-5) 
+ - 💯January 4, 2025 - [How I Found P1 Vulnerability Using Google Dork](https://h0x1d.medium.com/how-i-found-a-p1-vulnerability-using-google-dork-33ac0250df89?source=rss------bug_bounty-5) 
 
- - 💯January 3, 2025 - [Be Aware Of It, Hacker! How To Keep Yourself Off Dangerous Triggers During Hacking Story!](https://medium.com/@nnface/be-aware-of-it-hacker-how-to-keep-yourself-off-dangerous-triggers-during-hacking-story-b4e0962c05a7?source=rss------bug_bounty-5) 
+ - 💯January 4, 2025 - [My First Year in Bug Bounty](https://cyxbugs.medium.com/my-first-year-in-bug-bounty-42f39a42fc7f?source=rss------bug_bounty-5) 
 
- - 💯January 3, 2025 - [How I Found an Open AWS S3 Bucket and Used It to Take Over a Subdomain](https://medium.com/@bochamekh21/how-i-found-an-open-aws-s3-bucket-and-used-it-to-take-over-a-subdomain-75736e90c945?source=rss------bug_bounty-5) 
+ - 💯January 4, 2025 - [Nikto : VulnerabilityScanner COMMANDS](https://jawstar.medium.com/nikto-vulnerabilityscanner-commands-578b76344097?source=rss------bug_bounty-5) 
 
- - 💯January 3, 2025 - [P4 Bugs and PoC | Part 3](https://infosecwriteups.com/p4-bugs-and-poc-part-3-8ca9776c87bc?source=rss------bug_bounty-5) 
+ - 💯January 4, 2025 - [Bad Tenable Plugin Updates Take Down Nessus Agents Worldwide](https://medium.com/@wiretor/bad-tenable-plugin-updates-take-down-nessus-agents-worldwide-baf7c48c34a3?source=rss------bug_bounty-5) 
 
- - 💯January 3, 2025 - [TOP 10 VULNERABILITIES IN CYBER SECURITY](https://medium.com/@saiganesh18062003/top-10-vulnerabilities-in-cyber-security-337bb7a28760?source=rss------bug_bounty-5) 
+ - 💯January 4, 2025 - [New Android Malware Alert: FireScam Targets RuStore Users!](https://medium.com/@wiretor/new-android-malware-alert-firescam-targets-rustore-users-b5de983bd805?source=rss------bug_bounty-5) 
 
- - 💯January 3, 2025 - [Vulnerability Testing Techniques](https://medium.com/@phirojshah20/vulnerability-testing-techniques-b9498fefd4b3?source=rss------bug_bounty-5) 
+ - 💯January 4, 2025 - [Find XSS Vulnerabilities in Minutes](https://medium.com/@phirojshah20/find-xss-vulnerabilities-in-minutes-912d02d2b848?source=rss------bug_bounty-5) 
 
- - 💯January 3, 2025 - [PicoCTF Writeups — dont-use-client-side](https://medium.com/@sobatistacyber/picoctf-writeups-dont-use-client-side-1cda7ae1cc87?source=rss------bug_bounty-5) 
+ - 💯January 4, 2025 - [Detecting GraphQL Injection: Tools and Techniques for Security Testers](https://medium.com/infosecmatrix/detecting-graphql-injection-tools-and-techniques-for-security-testers-f3742d0388aa?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
