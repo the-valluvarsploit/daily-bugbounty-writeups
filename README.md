@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 14, 2025 - [How I Found a Critical Billing Bug but Ended Up with a Duplicate](https://medium.com/@aminouji23/how-i-found-a-critical-billing-bug-but-ended-up-with-a-duplicate-ac6934fab714?source=rss------bug_bounty-5) 
+ - 💯March 15, 2025 - [Title: How a Simple Header Lets Attackers Bypass OTP Rate Limits &lpar;And How to Fix It&rpar;](https://medium.com/@PareXploit/title-how-a-simple-header-lets-attackers-bypass-otp-rate-limits-and-how-to-fix-it-a005167c6eaf?source=rss------bug_bounty-5) 
 
- - 💯March 14, 2025 - [Metasploit 101: Hack Systems, Test Security, and Stay Ahead!](https://medium.com/@paritoshblogs/metasploit-101-hack-systems-test-security-and-stay-ahead-799922167146?source=rss------bug_bounty-5) 
+ - 💯March 15, 2025 - [The Ultimate Guide to Writing Test Cases for Smart Contracts](https://securrtech.medium.com/the-ultimate-guide-to-writing-test-cases-for-smart-contracts-99ce93f34149?source=rss------bug_bounty-5) 
 
- - 💯March 14, 2025 - [The Ultimate Burp Suite Playbook — Hidden Features &amp; Automation!](https://medium.com/@paritoshblogs/the-ultimate-burp-suite-playbook-hidden-features-automation-e9a07944dbd4?source=rss------bug_bounty-5) 
+ - 💯March 15, 2025 - [A Website that will be helpful in your Bug bounty and OSINT journey](https://infosecwriteups.com/a-website-that-will-be-helpful-in-your-bug-bounty-and-osint-journey-2c3368346924?source=rss------bug_bounty-5) 
 
- - 💯March 14, 2025 - [When Code Flaws Strike: How Tiny Bugs Lead to Admin Account Takeovers](https://krishna-cyber.medium.com/when-code-flaws-strike-how-tiny-bugs-lead-to-admin-account-takeovers-74124a437ba3?source=rss------bug_bounty-5) 
+ - 💯March 15, 2025 - [Bypassing OTP Verification: Another Bug Found Without Any Tools!](https://strangerwhite.medium.com/bypassing-otp-verification-another-bug-found-without-any-tools-8b2c1013c3e7?source=rss------bug_bounty-5) 
 
- - 💯March 14, 2025 - [Mastering JSRecon: A Comprehensive Guide to Identifying Sensitive Data in JavaScript Files](https://systemweakness.com/mastering-jsrecon-a-comprehensive-guide-to-identifying-sensitive-data-in-javascript-files-352771f10659?source=rss------bug_bounty-5) 
+ - 💯March 15, 2025 - [Low-Level Vulnerability: Fixed Hardcoded Data](https://medium.com/@jeetpal2007/low-level-vulnerability-fixed-hardcoded-data-f0cc9b9d971f?source=rss------bug_bounty-5) 
 
- - 💯March 14, 2025 - [Part-2 | Mastering 403 Forbidden Bypass Techniques✨](https://cybersecuritywriteups.com/part-2-mastering-403-forbidden-bypass-techniques-707e7880fa22?source=rss------bug_bounty-5) 
+ - 💯March 15, 2025 - [Web 3: — writeups collections](https://medium.com/@jeetpal2007/web-3-writeups-collections-9f3cce5bc382?source=rss------bug_bounty-5) 
 
- - 💯March 13, 2025 - [Hackyholidays CTF &lpar;Grinch Network&rpar; Write-Up | Part 2| Hacker101 CTF](https://medium.com/@sari.mmusab/hackyholidays-ctf-grinch-network-write-up-part-2-hacker101-ctf-89d394702807?source=rss------bug_bounty-5) 
+ - 💯March 15, 2025 - [How to Access Another’s Systems Remotely like Hacker [Ethical Hacking]](https://medium.com/@hrofficial62/how-to-access-anothers-systems-remotely-like-hacker-ethical-hacking-732fca529e49?source=rss------bug_bounty-5) 
 
- - 💯March 13, 2025 - [Proffesional Hacker’s Breakout. NnFace’s Advices #3 “The Curve of Hacking”](https://osintteam.blog/proffesional-hackers-breakout-nnface-s-advices-3-the-curve-of-hacking-b28c9875145e?source=rss------bug_bounty-5) 
+ - 💯March 14, 2025 - [This nuclei template made me to find more bugs](https://medium.com/@canonminibeast/this-nuclei-template-made-me-to-find-more-bugs-20de8365be3d?source=rss------bug_bounty-5) 
 
- - 💯March 13, 2025 - [Cracking the Cache: A Bug Bounty Hunter’s Guide to Web Cache Vulnerabilities &lpar;With Real-World…](https://osintteam.blog/cracking-the-cache-a-bug-bounty-hunters-guide-to-web-cache-vulnerabilities-with-real-world-33bb7b47ff1c?source=rss------bug_bounty-5) 
-
- - 💯March 13, 2025 - [Understanding SQL Injection: A Deep Dive into Exploitation and Prevention](https://cyberw1ng.medium.com/understanding-sql-injection-a-deep-dive-into-exploitation-and-prevention-0d3712bc6b93?source=rss------bug_bounty-5) 
+ - 💯March 14, 2025 - [How I Buy ₹6284 Worth of Items for Just ₹1](https://cybersecuritywriteups.com/how-i-buy-6284-worth-of-items-for-just-1-14b96af18c6e?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
