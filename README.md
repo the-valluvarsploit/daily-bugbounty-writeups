@@ -2,23 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 16, 2025 - [My journey being hacker #1 in BOLIVIA 2024/2023](https://medium.com/@vanpedrazas/my-journey-being-hacker-1-in-bolivia-2024-2023-7299d397a682?source=rss------bug_bounty-5) 
+ - 💯March 17, 2025 - [Subdomain Found! Now What? Next Steps for Bug Hunters](https://infosecwriteups.com/subdomain-found-now-what-next-steps-for-bug-hunters-df8fd79c73b7?source=rss------bug_bounty-5) 
 
- - 💯March 16, 2025 - [A website that will be helpful in your bug bounty journey.](https://infosecwriteups.com/a-website-that-will-be-helpful-in-your-bug-bounty-journey-de4f0f1721a8?source=rss------bug_bounty-5) 
+ - 💯March 17, 2025 - [[Best of February — M3Di] From Forest to Code: Transformational Security Researcher Growth Notes](https://medium.com/@security.tecno/best-of-february-m3di-from-forest-to-code-transformational-security-researcher-growth-notes-5079ac24d1b4?source=rss------bug_bounty-5) 
 
- - 💯March 16, 2025 - [Reverse Engineering APIs with Burp2API](https://medium.com/@samhilliard/reverse-engineering-apis-with-burp2api-f333c7a8bab9?source=rss------bug_bounty-5) 
+ - 💯March 17, 2025 - [Introduction to web3](https://doordiefordream.medium.com/introduction-to-web3-b78aa109ced0?source=rss------bug_bounty-5) 
 
- - 💯March 16, 2025 - [How I Hacked an E-Commerce Website &amp; Found XSS](https://aiwolfie.medium.com/how-i-hacked-an-e-commerce-website-found-xss-75db71424d4a?source=rss------bug_bounty-5) 
+ - 💯March 17, 2025 - [How I Made $3000 in 3 Minutes with SQLi](https://medium.com/@ibtissamhammadi/how-i-made-3000-in-3-minutes-with-sqli-d32c7f29c869?source=rss------bug_bounty-5) 
 
- - 💯March 16, 2025 - [VERY BASIC - How I Solve CSRF in Portswigger Lab](https://medium.com/@aashifm/very-basic-how-i-solve-csrf-in-portswigger-lab-f090e3325a0e?source=rss------bug_bounty-5) 
+ - 💯March 17, 2025 - [Bug Bounty: Cookie timeline utilization when the system uses multiple authentication cookies](https://medium.com/@smilemil/bug-bounty-cookie-timeline-utilization-when-the-system-uses-multiple-authentication-cookies-7d2e6cc68c34?source=rss------bug_bounty-5) 
 
- - 💯March 16, 2025 - [CVE-2025–26633: A Silent Threat in Windows MMC — What You Need to Know](https://medium.com/@jkyne6368/cve-2025-26633-a-silent-threat-in-windows-mmc-what-you-need-to-know-0f5156d97738?source=rss------bug_bounty-5) 
+ - 💯March 16, 2025 - [How a Logic Flaw Allowed Attackers to Hijack Accounts](https://osintteam.blog/how-a-logic-flaw-allowed-attackers-to-hijack-accounts-39509d7340e6?source=rss------bug_bounty-5) 
 
- - 💯March 15, 2025 - [How I Bypassed Verification &amp; One Pro Tip for Bug Hunters](https://medium.com/@mahdisalhi0500/how-i-bypassed-verification-one-pro-tip-for-bug-hunters-28dc82578614?source=rss------bug_bounty-5) 
+ - 💯March 16, 2025 - [How I Found an Open Redirect Vulnerability Easily &lpar;Worth $500!&rpar;](https://infosecwriteups.com/how-i-found-an-open-redirect-vulnerability-easily-worth-500-274999bb6527?source=rss------bug_bounty-5) 
 
- - 💯March 15, 2025 - [Beginner’s SQL Injection Cheat Sheet](https://cyberw1ng.medium.com/beginners-sql-injection-cheat-sheet-7c0f8d217e8e?source=rss------bug_bounty-5) 
+ - 💯March 16, 2025 - [CSRF in JSON Requests: A Real-World Exploit on Payout Features](https://medium.com/@mohamed.yasser442200/csrf-in-json-requests-a-real-world-exploit-on-payout-features-2829086ace5c?source=rss------bug_bounty-5) 
 
- - 💯March 15, 2025 - [Payload Generation Techniques for Bug Bounty Hunters](https://bitpanic.medium.com/payload-generation-techniques-for-bug-bounty-hunters-ab8b75bdffa6?source=rss------bug_bounty-5) 
-
- - 💯March 15, 2025 - [Open Redirect — CodePolitan Vulnerability Catch](https://firdausmuhammadismail.medium.com/open-redirect-codepolitan-vulnerability-catch-10d33baa6a71?source=rss------bug_bounty-5) 
+ - 💯March 16, 2025 - [Mastering Web Recon with WebCopilot](https://osintteam.blog/mastering-web-recon-with-webcopilot-78da58bfb428?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
