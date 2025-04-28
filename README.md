@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯April 26, 2025 - [⏱️ There were no visible errors, no hints… only the server’s hesitation told me the truth.](https://infosecwriteups.com/%EF%B8%8F-there-were-no-visible-errors-no-hints-only-the-servers-hesitation-told-me-the-truth-7b4987f10444?source=rss------bug_bounty-5) 
+ - 💯April 28, 2025 - [GraphQL API hacking Series for bug hunters 01](https://medium.com/@lancersiromony/graphql-api-hacking-series-for-bug-hunters-01-4db602685d16?source=rss------bug_bounty-5) 
 
- - 💯April 26, 2025 - [Path Traversal Attack: How I Accessed Admin Secrets](https://infosecwriteups.com/path-traversal-attack-how-i-accessed-admin-secrets-fa5de1865031?source=rss------bug_bounty-5) 
+ - 💯April 28, 2025 - [How I Found a Broken Access Control That Exposed Interview Answers?](https://osintteam.blog/how-i-found-a-broken-access-control-vulnerability-that-exposed-interview-answers-e353128f6883?source=rss------bug_bounty-5) 
 
- - 💯April 26, 2025 - [Symbolic Execution vs Traditional Static Analysis in Smart Contract Security](https://securrtech.medium.com/symbolic-execution-vs-traditional-static-analysis-in-smart-contract-security-97a9289bbd48?source=rss------bug_bounty-5) 
+ - 💯April 28, 2025 - [How i Access The Deleted Files of Someone in Google Drive | Bug Bounty](https://ph-hitachi.medium.com/how-i-access-the-deleted-files-of-someone-in-google-drive-bug-bounty-eac134df1de4?source=rss------bug_bounty-5) 
 
- - 💯April 26, 2025 - [Millions of Records Exposed via SQL Injection in a Tamil Nadu Government Portal](https://medium.com/@dharineeshj2/millions-of-records-exposed-via-sql-injection-in-a-tamil-nadu-government-portal-0981d3827ed2?source=rss------bug_bounty-5) 
+ - 💯April 28, 2025 - [How to Master Subdomain Takeovers in 2025](https://infosecwriteups.com/how-to-master-subdomain-takeovers-in-2025-023f9f4817af?source=rss------bug_bounty-5) 
 
- - 💯April 26, 2025 - [Microsoft Is Paying Up to $30,000 for AI Security Flaws](https://medium.com/@Cyber-AppSec/microsoft-is-paying-up-to-30-000-for-ai-security-flaws-d4f1fec247d6?source=rss------bug_bounty-5) 
+ - 💯April 28, 2025 - [$500 Bounty: For a Simple Open Redirect](https://infosecwriteups.com/500-bounty-for-a-simple-open-redirect-a34051071a5c?source=rss------bug_bounty-5) 
 
- - 💯April 25, 2025 - [OOP in Programming](https://medium.com/@migo.ee0/oop-in-programming-bc0ca618db63?source=rss------bug_bounty-5) 
+ - 💯April 28, 2025 - [☁️How to Setup a Custom Subdomain on xss.ht — A Complete Hacker&#39;s Guide](https://infosecwriteups.com/%EF%B8%8Fhow-to-setup-a-custom-subdomain-on-xss-ht-a-complete-hackers-guide-a0018704c391?source=rss------bug_bounty-5) 
 
- - 💯April 25, 2025 - [Next.js Middleware Vulnerability: How CVE-2025–29927 Enables Authorization Bypass](https://medium.com/@nitinsgavane/next-js-middleware-vulnerability-how-cve-2025-29927-enables-authorization-bypass-1e0293d10e24?source=rss------bug_bounty-5) 
+ - 💯April 28, 2025 - [Hunting Suspicious DLL Side-Loading Activity](https://medium.com/@paritoshblogs/hunting-suspicious-dll-side-loading-activity-5d919f018ac6?source=rss------bug_bounty-5) 
 
- - 💯April 25, 2025 - [From 403 Forbidden to PII Exposure: How I Escalated a Low-Severity Bug to a High P2](https://medium.com/@arrasgotcha/from-403-forbidden-to-pii-exposure-how-i-escalated-a-low-severity-bug-to-a-high-p2-915a9b814ce6?source=rss------bug_bounty-5) 
+ - 💯April 28, 2025 - [$500 XSS Payload in Slack](https://osintteam.blog/500-xss-payload-in-slack-0b99de50f4df?source=rss------bug_bounty-5) 
 
- - 💯April 25, 2025 - [Null Byte Injection Attack](https://medium.com/@adhamhashem2024/null-byte-injection-attack-a01de121e376?source=rss------bug_bounty-5) 
+ - 💯April 28, 2025 - [How I Made $12k in 48 Hours — By Recovering ‘Deleted’ Files](https://medium.com/@ibtissamhammadi/how-i-made-12k-in-48-hours-by-recovering-deleted-files-57bf7289ab9e?source=rss------bug_bounty-5) 
 
- - 💯April 25, 2025 - [We share a pool of $500k in the Bug Bounty event](https://medium.com/@kiyotosage/we-share-a-pool-of-500k-in-the-bug-bounty-event-3adf9e9cce0b?source=rss------bug_bounty-5) 
+ - 💯April 27, 2025 - [Manual Testing for Privilege Escalation and Broken Access Control My &lpar;Methodology&rpar;](https://medium.com/@kroush333/manual-testing-for-privilege-escalation-and-broken-access-control-my-methodology-a3b9f41b82a2?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
