@@ -2,21 +2,21 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 22, 2025 - [How to Use FOFA, Shodan.io, and Hunter.io for Advanced Cyber Reconnaissance](https://medium.com/@verylazytech/how-to-use-fofa-shodan-io-and-hunter-io-for-advanced-cyber-reconnaissance-602c23093fce?source=rss------bug_bounty-5) 
+ - 💯May 24, 2025 - [Escalating impact: Full Account Takeover via Stored XSS](https://rajukani100.medium.com/escalating-impact-full-account-takeover-via-stored-xss-24e5aee209f6?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2025 - [Risk Appetite vs. Risk Tolerance: What’s the Difference and Why It Matters](https://medium.com/@paritoshblogs/risk-appetite-vs-risk-tolerance-whats-the-difference-and-why-it-matters-7a52aabbf7d9?source=rss------bug_bounty-5) 
+ - 💯May 24, 2025 - [FOFA Dorking | Part4](https://medium.com/legionhunters/fofa-dorking-part4-7d0a09995407?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2025 - [Exploit PORT : 5900 , 59001 | VNC Port exploit &lpar;Series:1/ [article:3]&rpar;](https://infosecwriteups.com/exploit-port-5900-59001-vnc-port-exploit-series-1-article-3-c07d09ebdf5b?source=rss------bug_bounty-5) 
+ - 💯May 24, 2025 - [Bug Bounty in 2025: Hunting Business Logic Flaws the Right Way](https://medium.com/@kailasv678/bug-bounty-in-2025-hunting-business-logic-flaws-the-right-way-614aba550f7b?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2025 - [️How I Bypassed OTP Verification Without Any Code Injection](https://infosecwriteups.com/%EF%B8%8Fhow-i-bypassed-otp-verification-without-any-code-injection-1fb28a705cd4?source=rss------bug_bounty-5) 
+ - 💯May 23, 2025 - [Hacking APIs: Exploiting Business Logic Flaws](https://iaraoz.medium.com/hacking-apis-exploiting-business-logic-flaws-c40872ce5600?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2025 - [The $2,000 SQLi Story: Hours, Payloads, and Pure Stubbornness](https://medium.com/meetcyber/the-2-000-sqli-story-hours-payloads-and-pure-stubbornness-05eab4c7b968?source=rss------bug_bounty-5) 
+ - 💯May 23, 2025 - [How I Use LLMs to Supercharge My Bug Bounty Recon](https://bitpanic.medium.com/how-i-use-llms-to-supercharge-my-bug-bounty-recon-3f9892c6b5a0?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2025 - [How i can bypassing strong WAF in XSS with simple payload](https://medium.com/@0xRedFox29/how-i-can-bypassing-strong-waf-in-xss-with-simple-payload-7ef5d22ca626?source=rss------bug_bounty-5) 
+ - 💯May 23, 2025 - [Reverse Engineering Başlanğıcı: Easy Keygen Analizi &lpar;IDA Pro və x32dbg ilə&rpar;](https://medium.com/@elmin.farzaliyev/reverse-engineering-ba%C5%9Flan%C4%9F%C4%B1c%C4%B1-easy-keygen-analizi-ida-pro-v%C9%99-x32dbg-il%C9%99-37315ccedcc3?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2025 - [$13,950 Bounty: Stored XSS in GitLab Notes with a Clever CSP Bypass via &lt;base&gt;](https://osintteam.blog/13-950-bounty-stored-xss-in-gitlab-notes-with-a-clever-csp-bypass-via-base-9ca1f49994e3?source=rss------bug_bounty-5) 
+ - 💯May 23, 2025 - [️ The Ultimate Bug Bounty Checklist for Beginners](https://medium.com/@hackerfromhills/%EF%B8%8F-the-ultimate-bug-bounty-checklist-for-beginners-3fafc9ea5fc5?source=rss------bug_bounty-5) 
 
- - 💯May 22, 2025 - [This is how I got 16 CVEs in 2 months](https://medium.com/@rayhanhanaputra/this-is-how-i-got-16-cves-in-2-months-491be07793b0?source=rss------bug_bounty-5) 
+ - 💯May 23, 2025 - [Beyond the First $1,000: What Resilience Really Means in Bug Bounty Hunting](https://medium.com/@kailasv678/beyond-the-first-1-000-what-resilience-really-means-in-bug-bounty-hunting-92c54a9f8f04?source=rss------bug_bounty-5) 
 
- - 💯May 21, 2025 - [Reflected Chaos: How One XSS Vector Spawned Three CVEs](https://medium.com/@bonghaxor_34691/reflected-chaos-how-one-xss-vector-spawned-three-cves-f20e2df3275f?source=rss------bug_bounty-5) 
+ - 💯May 23, 2025 - [Amass Subdomain Enumeration : A Bug Hunter’s Guide](https://medium.com/@shaheeryasirofficial/amass-subdomain-enumeration-a-bug-hunters-guide-3271ab5bf597?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
