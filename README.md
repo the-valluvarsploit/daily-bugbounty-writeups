@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯May 29, 2025 - [Public Code, Private Keys: How I Was Rewarded $$ for Uncovering PII Leaks &lpar;Part I&rpar;](https://0xh7ml.medium.com/public-code-private-keys-how-i-was-rewarded-for-uncovering-pii-leaks-part-i-344b237d237a?source=rss------bug_bounty-5) 
+ - 💯May 31, 2025 - [Business Logic Flaw in a Rating System and Earned €150](https://medium.com/meetcyber/business-logic-flaw-in-a-rating-system-and-earned-150-a992ceb571a1?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2025 - [7 Principles of Software Testing Every QA Should Know](https://medium.com/@prafullamishra827/7-principles-of-software-testing-every-qa-should-know-c38255e81415?source=rss------bug_bounty-5) 
+ - 💯May 31, 2025 - [CTF Day&lpar;7&rpar;](https://medium.com/@ahmednarmer1/ctf-day-7-58d2feb3b6a2?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2025 - [Logic Flaw: Deleting HackerOne Team Reports Without Access Rights](https://infosecwriteups.com/logic-flaw-deleting-hackerone-team-reports-without-access-rights-1c4755a23af8?source=rss------bug_bounty-5) 
+ - 💯May 31, 2025 - [Bypassing Regex Validations to Achieve RCE: A Wild Bug Story](https://infosecwriteups.com/bypassing-regex-validations-to-achieve-rce-a-wild-bug-story-6476faccbc23?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2025 - [HTTP Host Header Attack?](https://medium.com/@anandrishav2228/http-host-header-attack-2949e597437f?source=rss------bug_bounty-5) 
+ - 💯May 31, 2025 - [You Should Know About This Bug, XMLRPC, WordPress.](https://medium.com/@Charon19d/you-should-know-about-this-bug-xmlrpc-wordpress-4604e29a8908?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2025 - [Uncovering Amazon S3 Bucket Vulnerabilities: A Comprehensive Guide for Ethical Hackers](https://infosecwriteups.com/uncovering-amazon-s3-bucket-vulnerabilities-a-comprehensive-guide-for-ethical-hackers-0fc903ac21d0?source=rss------bug_bounty-5) 
+ - 💯May 30, 2025 - [My Journey to NASA’s Hall of Fame](https://infosecwriteups.com/my-journey-to-nasas-hall-of-fame-6e680736f557?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2025 - [CVE-2025–4687 &lpar; Pre-Account takeover through invite on Teletonika RMS website &rpar;](https://jowin922.medium.com/cve-2025-4687-pre-account-takeover-through-invite-on-teletonika-rms-website-972335378829?source=rss------bug_bounty-5) 
+ - 💯May 30, 2025 - [Cross-Site Request Forgery](https://medium.com/@sangpalisha/cross-site-request-forgery-820e0b2f20d6?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2025 - [EG-CERT CTF25 Flog: Nowadays Arch Issues](https://dphoeniixx.medium.com/eg-cert-ctf25-flog-nowadays-arch-issues-acd6afa46b63?source=rss------bug_bounty-5) 
+ - 💯May 30, 2025 - [Public Programs vs Self-Hosted Programs](https://cybersecuritywriteups.com/public-programs-vs-self-hosted-programs-f0e1801fd042?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2025 - [$1,000 Bounty: Created Support Tickets on Behalf of Any HackerOne User via Email](https://osintteam.blog/1-000-bounty-created-support-tickets-on-behalf-of-any-hackerone-user-via-email-d8b6f90f0757?source=rss------bug_bounty-5) 
+ - 💯May 30, 2025 - [How I Turned a Simple Bug Into $5,756](https://medium.com/@ibtissamhammadi1/how-i-turned-a-simple-bug-into-5-756-19b176312060?source=rss------bug_bounty-5) 
 
- - 💯May 29, 2025 - [️ Sensitive Data Exposure via WP-JSON in WordPress](https://medium.com/@noorsaper64/%EF%B8%8F-sensitive-data-exposure-via-wp-json-in-wordpress-d1dee7318d3b?source=rss------bug_bounty-5) 
+ - 💯May 30, 2025 - [CTF Day&lpar;6&rpar;](https://medium.com/@ahmednarmer1/ctf-day-6-9ab92dec9346?source=rss------bug_bounty-5) 
 
- - 💯May 28, 2025 - [Android Pentesting Setup Up Burpsuite Intercept](https://medium.com/@muhammadhuzaifa02134182093/android-pentesting-setup-up-burpsuite-intercept-53b37ea9762c?source=rss------bug_bounty-5) 
+ - 💯May 30, 2025 - [The NPM Token That Stayed Alive for Two Years](https://medium.com/@arshadkazmi42/the-npm-token-that-stayed-alive-for-two-years-379d8d7be068?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
