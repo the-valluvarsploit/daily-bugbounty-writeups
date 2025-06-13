@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 11, 2025 - [Parameter Pollution: How to Hunt Silent Access Bugs](https://infosecwriteups.com/parameter-pollution-how-to-hunt-silent-access-bugs-922863d0498e?source=rss------bug_bounty-5) 
+ - 💯June 13, 2025 - [The $7,500 Bug in Google Web Designer — and Why It’s a Wake-Up Call for All of Us](https://osintteam.blog/the-7-500-bug-in-google-web-designer-and-why-its-a-wake-up-call-for-all-of-us-3571231fecfc?source=rss------bug_bounty-5) 
 
- - 💯June 11, 2025 - [How I Discovered Sensitive API Keys &amp; Auth Tokens in Public JavaScript Files — A Recon Journey](https://medium.com/@kingstar75114/how-i-discovered-sensitive-api-keys-auth-tokens-in-public-javascript-files-a-recon-journey-01cc33e27b9e?source=rss------bug_bounty-5) 
+ - 💯June 13, 2025 - [Web Cache Deception — The Vulnerability Even Developers Don’t See Coming](https://infosecwriteups.com/web-cache-deception-the-vulnerability-even-developers-dont-see-coming-c9b814b76da3?source=rss------bug_bounty-5) 
 
- - 💯June 11, 2025 - [How I Hunted Secret Express.js Endpoints With ffuf and Nuclei &lpar;And Found Some Spicy Stuff&rpar;](https://medium.com/@minto258/how-i-hunted-secret-express-js-endpoints-with-ffuf-and-nuclei-and-found-some-spicy-stuff-7f4939a1ed56?source=rss------bug_bounty-5) 
+ - 💯June 13, 2025 - [$7,500 Bounty: Exposed Any User’s Email on HackerOne](https://infosecwriteups.com/7-500-bounty-exposed-any-users-email-on-hackerone-2d19bb2a214c?source=rss------bug_bounty-5) 
 
- - 💯June 11, 2025 - [A Simple Passive Recon to Find Some Bugs](https://medium.com/@faxcl018/a-simple-passive-recon-to-find-some-bugs-aa34b6265820?source=rss------bug_bounty-5) 
+ - 💯June 13, 2025 - [Weeks of Watching, One Moment of Madness: A 2-Minute Hunt That Brought It All Down](https://osintteam.blog/weeks-of-watching-one-moment-of-madness-a-2-minute-hunt-that-brought-it-all-down-41f181a1cbc9?source=rss------bug_bounty-5) 
 
- - 💯June 11, 2025 - [How a Simple Port Scan Led to a $500 Google Reward](https://jebarsonimmanuel.medium.com/how-a-simple-port-scan-led-to-a-500-google-reward-39d80e2e3fef?source=rss------bug_bounty-5) 
+ - 💯June 13, 2025 - [CTF Day&lpar;13&rpar;](https://medium.com/@ahmednarmer1/ctf-day-13-2ad289797f14?source=rss------bug_bounty-5) 
 
- - 💯June 11, 2025 - [FOFA Dorking | Part 5](https://cybersecuritywriteups.com/fofa-dorking-part-5-4f0516273a0d?source=rss------bug_bounty-5) 
+ - 💯June 13, 2025 - [Path Traversal Vulnerability Explained: How Hackers Climb Your Server’s Directory Tree](https://medium.com/@zoningxtr/path-traversal-vulnerability-explained-how-hackers-climb-your-servers-directory-tree-c027af069407?source=rss------bug_bounty-5) 
 
- - 💯June 11, 2025 - [How Meta’s Bug Bounty Triage Fails Security Researchers — And Why It Matters](https://medium.com/@d.johnston_19172/how-metas-bug-bounty-triage-fails-security-researchers-and-why-it-matters-7dc3d8d56b16?source=rss------bug_bounty-5) 
+ - 💯June 13, 2025 - [CTF Day&lpar;12&rpar;](https://medium.com/@ahmednarmer1/ctf-day-12-df893a7035fe?source=rss------bug_bounty-5) 
 
- - 💯June 11, 2025 - [How I Discovered JS Execution Through CSTI and DOM XSS](https://javascript.plainenglish.io/how-i-discovered-js-execution-through-csti-and-dom-xss-09024676692b?source=rss------bug_bounty-5) 
+ - 💯June 12, 2025 - [CTF Day&lpar;11&rpar;](https://medium.com/@ahmednarmer1/ctf-day-11-0e8420294f32?source=rss------bug_bounty-5) 
 
- - 💯June 10, 2025 - [The $10K/Month Bug Bounty Machine: A Step-by-Step Guide to Building a Collaborative Recon Pipeline…](https://medium.com/@sync-with-ivan/the-10k-month-bug-bounty-machine-a-step-by-step-guide-to-building-a-collaborative-recon-pipeline-7b1d357ddd5d?source=rss------bug_bounty-5) 
+ - 💯June 12, 2025 - [Shodan Dorking for Hackers: Easy CVEs and How I Found Them](https://medium.com/@a0xtrojan/how-i-used-shodan-dork-to-discover-2-easy-bugs-cves-ecf6c56e7075?source=rss------bug_bounty-5) 
 
- - 💯June 10, 2025 - [I Broke Into Cybersecurity Without a CS Degree — Here’s the Unfiltered Truth](https://medium.com/@nigamh7/i-broke-into-cybersecurity-without-a-cs-degree-heres-the-unfiltered-truth-d320b5d8a474?source=rss------bug_bounty-5) 
+ - 💯June 12, 2025 - [What is an API? A Simple Guide for Beginners](https://medium.com/@gabbytech01/what-is-an-api-a-simple-guide-for-beginners-bf3429553880?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
