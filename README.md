@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 13, 2025 - [The $7,500 Bug in Google Web Designer — and Why It’s a Wake-Up Call for All of Us](https://osintteam.blog/the-7-500-bug-in-google-web-designer-and-why-its-a-wake-up-call-for-all-of-us-3571231fecfc?source=rss------bug_bounty-5) 
+ - 💯June 14, 2025 - [⚙️Complete Bug Bounty Tool List ⚙️](https://medium.com/infosec-ninja/%EF%B8%8Fcomplete-bug-bounty-tool-list-%EF%B8%8F-feade4710911?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2025 - [Web Cache Deception — The Vulnerability Even Developers Don’t See Coming](https://infosecwriteups.com/web-cache-deception-the-vulnerability-even-developers-dont-see-coming-c9b814b76da3?source=rss------bug_bounty-5) 
+ - 💯June 14, 2025 - [My First 3 Bug Bounty Reports — From Zero to Real-World Findings](https://medium.com/@merida-/my-first-3-bug-bounty-reports-from-zero-to-real-world-findings-218daa967194?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2025 - [$7,500 Bounty: Exposed Any User’s Email on HackerOne](https://infosecwriteups.com/7-500-bounty-exposed-any-users-email-on-hackerone-2d19bb2a214c?source=rss------bug_bounty-5) 
+ - 💯June 14, 2025 - [How to Use sslscan to Perform In-Depth SSL/TLS Security Scans](https://medium.com/@vivekbhatt2002/how-to-use-sslscan-to-perform-in-depth-ssl-tls-security-scans-9ef2c81704b6?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2025 - [Weeks of Watching, One Moment of Madness: A 2-Minute Hunt That Brought It All Down](https://osintteam.blog/weeks-of-watching-one-moment-of-madness-a-2-minute-hunt-that-brought-it-all-down-41f181a1cbc9?source=rss------bug_bounty-5) 
+ - 💯June 14, 2025 - [Why I Don’t Suggest People to Get into Cybersecurity &lpar;Unless…&rpar;](https://medium.com/@vipulsonule71/why-i-dont-suggest-people-to-get-into-cybersecurity-unless-ecb511b5da44?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2025 - [CTF Day&lpar;13&rpar;](https://medium.com/@ahmednarmer1/ctf-day-13-2ad289797f14?source=rss------bug_bounty-5) 
+ - 💯June 14, 2025 - [How to Find and Exploit Jenkins Unauthenticated RCE via Shodan](https://medium.com/@josekuttykunnelthazhebinu/how-to-find-and-exploit-jenkins-unauthenticated-rce-via-shodan-0bf0242e559e?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2025 - [Path Traversal Vulnerability Explained: How Hackers Climb Your Server’s Directory Tree](https://medium.com/@zoningxtr/path-traversal-vulnerability-explained-how-hackers-climb-your-servers-directory-tree-c027af069407?source=rss------bug_bounty-5) 
+ - 💯June 13, 2025 - [Account Takeover via Facebook OAuth Misconfiguration](https://medium.com/@elghzaly/account-takeover-via-facebook-oauth-misconfiguration-f5eb1a943873?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2025 - [CTF Day&lpar;12&rpar;](https://medium.com/@ahmednarmer1/ctf-day-12-df893a7035fe?source=rss------bug_bounty-5) 
+ - 💯June 13, 2025 - [From Zero to $100K in Cybersecurity in 90 Days: A Realistic, Actionable Plan](https://krishna-cyber.medium.com/from-zero-to-100k-in-cybersecurity-in-90-days-a-realistic-actionable-plan-69edb195d925?source=rss------bug_bounty-5) 
 
- - 💯June 12, 2025 - [CTF Day&lpar;11&rpar;](https://medium.com/@ahmednarmer1/ctf-day-11-0e8420294f32?source=rss------bug_bounty-5) 
+ - 💯June 13, 2025 - [How to Test “Forgot Password” for Bugs — A Guide for BB Hunters &amp; Pentesters](https://medusa0xf.medium.com/how-to-test-forgot-password-for-bugs-a-guide-for-bb-hunters-pentesters-4d3043007714?source=rss------bug_bounty-5) 
 
- - 💯June 12, 2025 - [Shodan Dorking for Hackers: Easy CVEs and How I Found Them](https://medium.com/@a0xtrojan/how-i-used-shodan-dork-to-discover-2-easy-bugs-cves-ecf6c56e7075?source=rss------bug_bounty-5) 
+ - 💯June 13, 2025 - [From Bug Bounty Blahs to Breakthroughs: Navigating the “Never Enough” Trap in Cyber](https://leviiatan.medium.com/from-bug-bounty-blahs-to-breakthroughs-navigating-the-never-enough-trap-in-cyber-fcb212072068?source=rss------bug_bounty-5) 
 
- - 💯June 12, 2025 - [What is an API? A Simple Guide for Beginners](https://medium.com/@gabbytech01/what-is-an-api-a-simple-guide-for-beginners-bf3429553880?source=rss------bug_bounty-5) 
+ - 💯June 13, 2025 - [¿Qué es el Bug Bounty y por qué es tan lucrativo?](https://tizimass.medium.com/qu%C3%A9-es-el-bug-bounty-y-por-qu%C3%A9-es-tan-lucrativo-9d10d204542b?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
