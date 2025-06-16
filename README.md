@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 14, 2025 - [⚙️Complete Bug Bounty Tool List ⚙️](https://medium.com/infosec-ninja/%EF%B8%8Fcomplete-bug-bounty-tool-list-%EF%B8%8F-feade4710911?source=rss------bug_bounty-5) 
+ - 💯June 16, 2025 - [HUNTR — Bug Bounty Platform for AI/ML](https://medium.com/meetcyber/huntr-bug-bounty-platform-for-ai-ml-c0e4413a7bec?source=rss------bug_bounty-5) 
 
- - 💯June 14, 2025 - [My First 3 Bug Bounty Reports — From Zero to Real-World Findings](https://medium.com/@merida-/my-first-3-bug-bounty-reports-from-zero-to-real-world-findings-218daa967194?source=rss------bug_bounty-5) 
+ - 💯June 16, 2025 - [Discovering SQLMC: A Lightweight Tool for Fast SQL Injection Discovery](https://infosecwriteups.com/discovering-sqlmc-a-lightweight-tool-for-fast-sql-injection-discovery-a4042040a932?source=rss------bug_bounty-5) 
 
- - 💯June 14, 2025 - [How to Use sslscan to Perform In-Depth SSL/TLS Security Scans](https://medium.com/@vivekbhatt2002/how-to-use-sslscan-to-perform-in-depth-ssl-tls-security-scans-9ef2c81704b6?source=rss------bug_bounty-5) 
+ - 💯June 16, 2025 - [Advanced Bug Bounty Recon Playbook &lpar;2025 Edition&rpar; — PART 2](https://medium.com/infosec-ninja/advanced-bug-bounty-recon-playbook-2025-edition-part-2-39faaf2b7fc2?source=rss------bug_bounty-5) 
 
- - 💯June 14, 2025 - [Why I Don’t Suggest People to Get into Cybersecurity &lpar;Unless…&rpar;](https://medium.com/@vipulsonule71/why-i-dont-suggest-people-to-get-into-cybersecurity-unless-ecb511b5da44?source=rss------bug_bounty-5) 
+ - 💯June 16, 2025 - [How to Run SQLMAP from Anywhere in Windows CMD &lpar;Complete Setup Guide&rpar;](https://medium.com/@devanshpatel930/how-to-run-sqlmap-from-anywhere-in-windows-cmd-complete-setup-guide-eee9d61f6303?source=rss------bug_bounty-5) 
 
- - 💯June 14, 2025 - [How to Find and Exploit Jenkins Unauthenticated RCE via Shodan](https://medium.com/@josekuttykunnelthazhebinu/how-to-find-and-exploit-jenkins-unauthenticated-rce-via-shodan-0bf0242e559e?source=rss------bug_bounty-5) 
+ - 💯June 15, 2025 - [Banner Grabbing in 2025: Still a Goldmine for Attackers?](https://cyberw1ng.medium.com/banner-grabbing-in-2025-still-a-goldmine-for-attackers-b08b21ec723a?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2025 - [Account Takeover via Facebook OAuth Misconfiguration](https://medium.com/@elghzaly/account-takeover-via-facebook-oauth-misconfiguration-f5eb1a943873?source=rss------bug_bounty-5) 
+ - 💯June 15, 2025 - [I Found a $4,200 Bug in 15 Minutes](https://medium.com/@ibtissamhammadi1/i-found-a-4-200-bug-in-15-minutes-8d1ce968cf6b?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2025 - [From Zero to $100K in Cybersecurity in 90 Days: A Realistic, Actionable Plan](https://krishna-cyber.medium.com/from-zero-to-100k-in-cybersecurity-in-90-days-a-realistic-actionable-plan-69edb195d925?source=rss------bug_bounty-5) 
+ - 💯June 15, 2025 - [“Why IDORs Are Everywhere — And How to Find Them”](https://hettt.medium.com/why-idors-are-everywhere-and-how-to-find-them-3ba45128e0f3?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2025 - [How to Test “Forgot Password” for Bugs — A Guide for BB Hunters &amp; Pentesters](https://medusa0xf.medium.com/how-to-test-forgot-password-for-bugs-a-guide-for-bb-hunters-pentesters-4d3043007714?source=rss------bug_bounty-5) 
+ - 💯June 15, 2025 - [I’m Starting a Daily Cybersecurity Series — From SCRATCH!](https://medium.com/@cyberx595/im-starting-a-daily-cybersecurity-series-from-0-65f09ca0aa1b?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2025 - [From Bug Bounty Blahs to Breakthroughs: Navigating the “Never Enough” Trap in Cyber](https://leviiatan.medium.com/from-bug-bounty-blahs-to-breakthroughs-navigating-the-never-enough-trap-in-cyber-fcb212072068?source=rss------bug_bounty-5) 
+ - 💯June 15, 2025 - [Subdomain Enumeration with Sublist3r: Uncovering the Hidden Layers](https://medium.com/@0xYooZy/subdomain-enumeration-with-sublist3r-uncovering-the-hidden-layers-7b7b83e9f238?source=rss------bug_bounty-5) 
 
- - 💯June 13, 2025 - [¿Qué es el Bug Bounty y por qué es tan lucrativo?](https://tizimass.medium.com/qu%C3%A9-es-el-bug-bounty-y-por-qu%C3%A9-es-tan-lucrativo-9d10d204542b?source=rss------bug_bounty-5) 
+ - 💯June 15, 2025 - [How I Chained Recon and IDOR to Access 100&#39;s of Credit Cards](https://medium.com/@XCriminal/how-i-chained-recon-and-idor-to-access-100s-of-credit-cards-0ca50eb82a74?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
