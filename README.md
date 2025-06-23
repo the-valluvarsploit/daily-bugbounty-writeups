@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯June 21, 2025 - [Why Most Hackers Fail at Finding Bugs](https://medium.com/@ibtissamhammadi1/why-most-hackers-fail-at-finding-bugs-daf11b7e074b?source=rss------bug_bounty-5) 
+ - 💯June 23, 2025 - [This Vulnerability can blow your mind.](https://medium.com/@anandrishav2228/this-vulnerability-can-blow-your-mind-7cda8b22d5fa?source=rss------bug_bounty-5) 
 
- - 💯June 21, 2025 - [How I Turned One PoC Into $100K+ in Bounties — The Story of iScan.Today](https://medium.com/@arshadkazmi42/how-i-turned-one-poc-into-100k-in-bounties-the-story-of-iscan-today-3fb5250f9198?source=rss------bug_bounty-5) 
+ - 💯June 23, 2025 - [How to Build a Bug Bounty Target List That Actually Gets You Bugs &lpar;2025 Guide&rpar;](https://su6osec.medium.com/how-to-build-a-bug-bounty-target-list-that-actually-gets-you-bugs-2025-guide-626fe67497fa?source=rss------bug_bounty-5) 
 
- - 💯June 21, 2025 - [When Fintech Gets Too Trusting: How I Stumbled Upon a Full-Blown PII Leak in a Nigerian Banking API](https://medium.com/@haykeenspaul/when-fintech-gets-too-trusting-how-i-stumbled-upon-a-full-blown-pii-leak-in-a-nigerian-banking-api-73d6dbb493a5?source=rss------bug_bounty-5) 
+ - 💯June 23, 2025 - [$7,500 Bounty: Exposed Proxy on Reddit Allowed External Access to Internal Domains](https://infosecwriteups.com/7-500-bounty-exposed-proxy-on-reddit-allowed-external-access-to-internal-domains-a6abc413d852?source=rss------bug_bounty-5) 
 
- - 💯June 21, 2025 - [CTF Day&lpar;21&rpar;](https://medium.com/@ahmednarmer1/ctf-day-21-1609f905029b?source=rss------bug_bounty-5) 
+ - 💯June 23, 2025 - [$2,162 Bounty: CVE-2024–56374 — DoS in Django’s IPv6 Validation](https://infosecwriteups.com/2-162-bounty-cve-2024-56374-dos-in-djangos-ipv6-validation-d689da7584b9?source=rss------bug_bounty-5) 
 
- - 💯June 21, 2025 - [Uncover Hidden Endpoints with This Powerful FFUF Oneliner](https://fagun18.medium.com/uncover-hidden-endpoints-with-this-powerful-ffuf-oneliner-bf26e13805c0?source=rss------bug_bounty-5) 
+ - 💯June 23, 2025 - [☕ How I Redirected the Entire Startup to evil.com — With One Header](https://aiwolfie.medium.com/how-i-redirected-the-entire-startup-to-evil-com-with-one-header-f2eb6faae934?source=rss------bug_bounty-5) 
 
- - 💯June 21, 2025 - [How a Simple Bookmark Earned a Two-Digit € Bug Bounty](https://medium.com/meetcyber/how-a-simple-bookmark-earned-a-two-digit-bug-bounty-0a956537e5e5?source=rss------bug_bounty-5) 
+ - 💯June 23, 2025 - [YARA Rules in Action: Detecting Malware with Custom Signatures](https://medium.com/@paritoshblogs/yara-rules-in-action-detecting-malware-with-custom-signatures-fd61633e87c2?source=rss------bug_bounty-5) 
 
- - 💯June 21, 2025 - [The Hacker Mindset — How to Think Like a Bug Bounty Hunter](https://su6osec.medium.com/the-hacker-mindset-how-to-think-like-a-bug-bounty-hunter-0eb96afa831e?source=rss------bug_bounty-5) 
+ - 💯June 22, 2025 - [How I Find Multiple IDOR Vulnerabilities in a Single Target](https://medium.com/@ibtissamhammadi1/how-i-find-multiple-idor-vulnerabilities-in-a-single-target-79510b77c8de?source=rss------bug_bounty-5) 
 
- - 💯June 21, 2025 - [When Permissions Don’t Match Reality: A Business Logic Flaw in Cloud Data Science Platforms](https://medium.com/@TakiasSec/when-permissions-dont-match-reality-a-business-logic-flaw-in-cloud-data-science-platforms-4f3d0a68fab0?source=rss------bug_bounty-5) 
+ - 💯June 22, 2025 - [Why 90% Fail at Bug Bounties &lpar;And How You Can Actually Win in 2025&rpar;](https://medium.com/@rishabhshri08/why-90-fail-at-bug-bounties-and-how-you-can-actually-win-in-2025-47ada94af783?source=rss------bug_bounty-5) 
 
- - 💯June 21, 2025 - [PAN-OS CVE-2025–0133 | XSS](https://osintteam.blog/pan-os-cve-2025-0133-xss-d7ae25212005?source=rss------bug_bounty-5) 
+ - 💯June 22, 2025 - [IDOR Leads to Unauthorized Deletion: How I Earned $500 in Bug Bounty](https://medusa0xf.medium.com/idor-leads-to-unauthorized-deletion-how-i-earned-500-in-bug-bounty-335bd6a2c75d?source=rss------bug_bounty-5) 
 
- - 💯June 21, 2025 - [$3,800 Bounty: How Cache Poisoning Took Down Shopify’s CDN Files — DoS Across Thousands of Stores](https://osintteam.blog/3-800-bounty-how-cache-poisoning-took-down-shopifys-cdn-files-dos-across-thousands-of-stores-f6d7fdc72b26?source=rss------bug_bounty-5) 
+ - 💯June 22, 2025 - [Your Bug Bounty Toolkit — What You Actually Need to Start Finding Bugs](https://su6osec.medium.com/your-bug-bounty-toolkit-what-you-actually-need-to-start-finding-bugs-10406119233c?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
