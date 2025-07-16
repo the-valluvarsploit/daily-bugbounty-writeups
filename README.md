@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 15, 2025 - [Google Unicode SPUA-B Misinterpretation: Decoding Hidden Instructions as Plain Text](https://infosecwriteups.com/google-unicode-spua-b-misinterpretation-decoding-hidden-instructions-as-plain-text-114c159ebe8b?source=rss------bug_bounty-5) 
+ - 💯July 16, 2025 - [When Your Hobby Involves Breaking Things &lpar;Legally&rpar;When Your Hobby Involves Breaking Things…](https://medium.com/@nonameshahid/when-your-hobby-involves-breaking-things-legally-when-your-hobby-involves-breaking-things-c7bbd233d50d?source=rss------bug_bounty-5) 
 
- - 💯July 15, 2025 - [How I Earned $780 Using Bug Bounty &lpar;As a Beginner&rpar;](https://medium.com/@rashad.desk/how-i-earned-780-using-bug-bounty-as-a-beginner-cc550f77e8a8?source=rss------bug_bounty-5) 
+ - 💯July 16, 2025 - [I Found a Telegram Bot Token in settings.js – Here&#39;s How You Can Too!](https://levi4.medium.com/i-found-a-telegram-bot-token-in-settings-js-heres-how-you-can-too-f5ad8aee5944?source=rss------bug_bounty-5) 
 
- - 💯July 15, 2025 - [Find High-Quality Subdomains Using Subfinder, API Keys, FFUF &amp; SubEnum](https://err0rgod.medium.com/find-high-quality-subdomains-using-subfinder-api-keys-ffuf-subenum-721918d6f2d4?source=rss------bug_bounty-5) 
+ - 💯July 16, 2025 - [No buscar subdominios, buscar valor: mi giro definitivo en el reconocimiento de Bug Bounty](https://gorkaaa.medium.com/no-buscar-subdominios-buscar-valor-mi-giro-definitivo-en-el-reconocimiento-de-bug-bounty-cce16f53c843?source=rss------bug_bounty-5) 
 
- - 💯July 15, 2025 - [Two-Factor Authentication &lpar;2FA&rpar; Vulnerabilities: Full Analysis](https://medium.com/h7w/two-factor-authentication-2fa-vulnerabilities-full-analysis-c0e7a04c1acb?source=rss------bug_bounty-5) 
+ - 💯July 16, 2025 - [When Your Hobby Involves Breaking Things &lpar;Legally&rpar;](https://medium.com/@nonameshahid/when-your-hobby-involves-breaking-things-legally-5c65da19c7de?source=rss------bug_bounty-5) 
 
- - 💯July 15, 2025 - [Automation in Bug Bounty Hunting: Best Tools and Techniques](https://osintteam.blog/automation-in-bug-bounty-hunting-best-tools-and-techniques-17bbdfdc1633?source=rss------bug_bounty-5) 
+ - 💯July 16, 2025 - [How I Brute-Forced 400 Internal Accounts Without Logging In-P3-](https://medium.com/@hacker_space11/how-i-brute-forced-400-internal-accounts-without-logging-in-p3-5d90aa7a703c?source=rss------bug_bounty-5) 
 
- - 💯July 15, 2025 - [How a 2FA Bypass Vulnerability in Drugs.com Exposed User Accounts](https://osintteam.blog/how-a-2fa-bypass-vulnerability-in-drugs-com-exposed-user-accounts-773d9eea0cb0?source=rss------bug_bounty-5) 
+ - 💯July 16, 2025 - [The Forgotten Dev Endpoints That Still Exist in Production](https://medium.com/@narendarlb123/the-forgotten-dev-endpoints-that-still-exist-in-production-6cc918a0339d?source=rss------bug_bounty-5) 
 
- - 💯July 15, 2025 - [Injection : Guía Completa de Hacking, Bug Bounty y Prevención](https://medium.com/@jpablo13/injection-gu%C3%ADa-completa-de-hacking-bug-bounty-y-prevenci%C3%B3n-a5748ca723c6?source=rss------bug_bounty-5) 
+ - 💯July 16, 2025 - [Unintended Consequences: How a ‘Cancel’ Button Gave Me Full Access](https://medium.com/@narendarlb123/unintended-consequences-how-a-cancel-button-gave-me-full-access-375c795ed59c?source=rss------bug_bounty-5) 
 
- - 💯July 14, 2025 - [5000$ |Broken Access Control Let Me Delete Other Users’ Tasklists &lpar;ZVE-2025–2842&rpar;](https://medium.com/@aminefarah802/broken-access-control-let-me-delete-other-users-tasklists-zve-2025-2842-717dced47b0a?source=rss------bug_bounty-5) 
+ - 💯July 16, 2025 - [Favicon Hashing: How I Fingerprinted 1000s of Exposed Panels in Minutes](https://medium.com/@narendarlb123/favicon-hashing-how-i-fingerprinted-1000s-of-exposed-panels-in-minutes-bbeb5bf47a17?source=rss------bug_bounty-5) 
 
- - 💯July 14, 2025 - [Inconsistent Session Logout After Enabling 2FA on Epic Games — A High-Impact Flaw Explained](https://spidergk.medium.com/inconsistent-session-logout-after-enabling-2fa-on-epic-games-a-high-impact-flaw-explained-2a2ff36c3a3b?source=rss------bug_bounty-5) 
+ - 💯July 16, 2025 - [Multiple Vulnerabilities at Indiana University](https://cybersecuritywriteups.com/multiple-vulnerabilities-at-indiana-university-4c324afe6bbf?source=rss------bug_bounty-5) 
 
- - 💯July 14, 2025 - [️ How I Found 300+ Web3 Users’ 2FA Secrets Using Just One Recon Command](https://medium.com/@zack0x01_/%EF%B8%8F-how-i-found-300-web3-users-2fa-secrets-using-just-one-recon-command-13fa202393e0?source=rss------bug_bounty-5) 
+ - 💯July 16, 2025 - [How I hacked my school’s website](https://medium.com/@faav/how-i-hacked-my-schools-website-79d3a7444714?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
