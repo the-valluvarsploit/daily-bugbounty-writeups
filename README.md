@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯July 26, 2025 - [BUG-BOUNTY SERIES 1 : Pengenalan dan Dasar Bug Bounty](https://medium.com/@krisnawhy300/bug-bounty-series-1-pengenalan-dan-dasar-bug-bounty-4e5a302c607d?source=rss------bug_bounty-5) 
+ - 💯July 27, 2025 - [Host Validation Bypass via Connection State Attack: Multiple Requests Over the Same TCP Connection](https://infosecwriteups.com/host-validation-bypass-via-connection-state-attack-multiple-requests-over-the-same-tcp-connection-9fc2406d2fe1?source=rss------bug_bounty-5) 
 
- - 💯July 26, 2025 - [Episode 6: How I Discovered LDAP Injection and Why It Matters &lpar;Even If You’re Not a Hacker&rpar;](https://infosecwriteups.com/episode-6-how-i-discovered-ldap-injection-and-why-it-matters-even-if-youre-not-a-hacker-f2d7f22e3390?source=rss------bug_bounty-5) 
+ - 💯July 27, 2025 - [AI-Assisted Insecurity: Forging JWTs from Auto-Generated Weak Secrets](https://saeed0x1.medium.com/ai-assisted-insecurity-forging-jwts-from-auto-generated-weak-secrets-9a6db38b14ad?source=rss------bug_bounty-5) 
 
- - 💯July 26, 2025 - [I Automated CSP Extraction and Mapped 100+ Subdomains](https://infosecwriteups.com/i-automated-csp-extraction-and-mapped-100-subdomains-adf04880ea5d?source=rss------bug_bounty-5) 
+ - 💯July 27, 2025 - [Week 6 — Learning Basic Concepts of Cybersecurity](https://iamaangx028.medium.com/week-6-learning-basic-concepts-of-cybersecurity-d2a27e136f24?source=rss------bug_bounty-5) 
 
- - 💯July 26, 2025 - [How I Found a $3,000 Bug Using Just Recon](https://medium.com/@zinolioncity/how-i-found-a-3-000-bug-using-just-recon-18dd88e827ae?source=rss------bug_bounty-5) 
+ - 💯July 27, 2025 - [Parameter Tampering on a Govt. site](https://medium.com/@bagade1122/parameter-tampering-on-a-govt-site-b5a7c6a5490c?source=rss------bug_bounty-5) 
 
- - 💯July 26, 2025 - [SSRF via Flawed Request Parsing Leads to SSRF and Internal Admin Access](https://infosecwriteups.com/ssrf-via-flawed-request-parsing-leads-to-ssrf-and-internal-admin-access-ffac4b3103db?source=rss------bug_bounty-5) 
+ - 💯July 27, 2025 - [“Bug Bounty ”Telerik Report Server Authentication Bypass — CVE-2024–4358 “POC”](https://medium.com/@hariharanhex00/bug-bounty-telerik-report-server-authentication-bypass-cve-2024-4358-poc-358575ed7102?source=rss------bug_bounty-5) 
 
- - 💯July 26, 2025 - [The Bug Hiding in Plain Sight: A Simple Click Led to Cross-Org Account Takeover](https://ayaa101.medium.com/the-bug-hiding-in-plain-sight-a-simple-click-led-to-cross-org-account-takeover-82b77f640f6f?source=rss------bug_bounty-5) 
+ - 💯July 27, 2025 - [:     HackerOne!](https://medium.com/@umeryousuf26/hackerone-19b7aeaf7c6a?source=rss------bug_bounty-5) 
 
- - 💯July 26, 2025 - [Insecure OTP Mechanism: How I Discovered a Replay Attack Vulnerability](https://medium.com/@gowthami09027/insecure-otp-mechanism-how-i-discovered-a-replay-attack-vulnerability-a1c10e49c298?source=rss------bug_bounty-5) 
+ - 💯July 27, 2025 - [SQL injection vulnerability allowing login bypass [ES] [PortSwigger]](https://h0lm3s.medium.com/sql-injection-vulnerability-allowing-login-bypass-es-portswigger-53c7adf477df?source=rss------bug_bounty-5) 
 
- - 💯July 26, 2025 - [SharePoint ToolShell: The Most sophisticated Enterprise hack of 2025](https://medium.com/@jakboubmostefa/sharepoint-toolshell-the-most-sophisticated-enterprise-breach-of-2025-7acb4bf71222?source=rss------bug_bounty-5) 
+ - 💯July 26, 2025 - [I Got ROOT Access to a Hosting Provider Without a Single Exploit](https://kkonann.medium.com/i-got-root-access-to-a-hosting-provider-without-a-single-exploit-c6af4185dc54?source=rss------bug_bounty-5) 
 
- - 💯July 26, 2025 - [OS command injection, simple case [ES] [PortSwigger]](https://h0lm3s.medium.com/os-command-injection-simple-case-es-portswigger-601126eea44a?source=rss------bug_bounty-5) 
+ - 💯July 26, 2025 - [$1000 Bounty: Reset any password](https://medium.com/h7w/1000-bounty-reset-any-password-474606e18441?source=rss------bug_bounty-5) 
 
- - 💯July 26, 2025 - [Vulnerable and obsolete components &lpar;OWASP A06&rpar;: Hacking and Bug Bounty Guide](https://medium.com/@jpablo13/vulnerable-and-obsolete-components-owasp-a06-hacking-and-bug-bounty-guide-0f8b3d1736c4?source=rss------bug_bounty-5) 
+ - 💯July 26, 2025 - [$3,000 for Finding a Hidden Subdomain: My Reconnaissance Success Story](https://osintteam.blog/3-000-for-finding-a-hidden-subdomain-my-reconnaissance-success-story-990396554a2e?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
