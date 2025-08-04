@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯August 3, 2025 - [Beyond Recon: 4 Battle-Tested Bug Bounty Strategies](https://medium.com/@aufzayed/beyond-recon-4-battle-tested-bug-bounty-strategies-bb24bb437b2c?source=rss------bug_bounty-5) 
+ - 💯August 4, 2025 - [Chain Up Bugs — Web Application](https://medium.com/@zisansakibhaque/chain-up-bugs-web-application-8a0b1d148e5b?source=rss------bug_bounty-5) 
 
- - 💯August 3, 2025 - [“Juicy 404s”: How Broken Pages Spilled Secrets and Gave Me Admin Access](https://systemweakness.com/juicy-404s-how-broken-pages-spilled-secrets-and-gave-me-admin-access-d87c938ac26b?source=rss------bug_bounty-5) 
+ - 💯August 4, 2025 - [Burp Suite + MITM + VPN = Full Traffic Hijack for Analysis](https://medium.com/@paritoshblogs/burp-suite-mitm-vpn-full-traffic-hijack-for-analysis-25c7a2390e16?source=rss------bug_bounty-5) 
 
- - 💯August 3, 2025 - [“GitHub Recon: Hacking the Frontend Without Touching the App”](https://javascript.plainenglish.io/github-recon-hacking-the-frontend-without-touching-the-app-5d8798d5ac64?source=rss------bug_bounty-5) 
+ - 💯August 4, 2025 - [The Poisoned Pipeline: Exploiting CI/CD Secrets Without Accessing the Code](https://javascript.plainenglish.io/the-poisoned-pipeline-exploiting-ci-cd-secrets-without-accessing-the-code-f6a1aa32b67f?source=rss------bug_bounty-5) 
 
- - 💯August 3, 2025 - [How I Bypassed OTP Verification with Just a Script Tag](https://medium.com/@ivoaabreu/how-i-bypassed-otp-verification-with-just-a-script-tag-7cbb880060c3?source=rss------bug_bounty-5) 
+ - 💯August 4, 2025 - [DAY 1 Recon: Manual Reconnaissance: How I Explore Targets Like a Hacker &lpar;But With Good Intentions&rpar;](https://infosecwriteups.com/day-1-recon-manual-reconnaissance-how-i-explore-targets-like-a-hacker-but-with-good-intentions-04b61864d1ea?source=rss------bug_bounty-5) 
 
- - 💯August 3, 2025 - [How Race Conditions Let You Snatch Unlimited Free Domains](https://osintteam.blog/how-race-conditions-let-you-snatch-unlimited-free-domains-963deec411a5?source=rss------bug_bounty-5) 
+ - 💯August 4, 2025 - [⚔️ Burp Suite x AI: The Ultimate Payload Chaining Recon Engine](https://medium.com/meetcyber/%EF%B8%8F-burp-suite-x-ai-the-ultimate-payload-chaining-recon-engine-ac2af4c19c98?source=rss------bug_bounty-5) 
 
- - 💯August 2, 2025 - [The Silent Threat: How a Simple Zip File Triggered Google Web Designer’s Weakness️](https://shabertseng.medium.com/the-silent-threat-how-a-simple-zip-file-triggered-google-web-designers-weakness-%EF%B8%8F-e1b18db76533?source=rss------bug_bounty-5) 
+ - 💯August 4, 2025 - [️ Ticket to Trouble: How I Hijacked Support Tickets to See Everyone’s Complaints ️](https://infosecwriteups.com/%EF%B8%8F-ticket-to-trouble-how-i-hijacked-support-tickets-to-see-everyones-complaints-%EF%B8%8F-3fbcb33afdf7?source=rss------bug_bounty-5) 
 
- - 💯August 2, 2025 - [I Wrote a Eulogy for Manual Recon](https://medium.com/@ibtissamhammadi1/i-wrote-a-eulogy-for-manual-recon-73c2bfa992ae?source=rss------bug_bounty-5) 
+ - 💯August 4, 2025 - [ANDROID PENTESTING — PART 2 — STATIC ANALYSIS](https://infosecwriteups.com/android-pentesting-part-2-static-analysis-307844a36b50?source=rss------bug_bounty-5) 
 
- - 💯August 2, 2025 - [Client-Side Lies: Hacking the Logic Behind PortSwigger’s Business Flaw Lab](https://medium.com/@surveishtiyak/client-side-lies-hacking-the-logic-behind-portswiggers-business-flaw-lab-30da3638d0b3?source=rss------bug_bounty-5) 
+ - 💯August 4, 2025 - [How to Find and Exploit Information Disclosure Vulnerabilities Like a Pro](https://infosecwriteups.com/how-to-find-and-exploit-information-disclosure-vulnerabilities-like-a-pro-a9386ef01000?source=rss------bug_bounty-5) 
 
- - 💯August 2, 2025 - [From a Boring Engagement to Uncovering a High Severity CVE](https://m3m0o.medium.com/from-a-boring-engagement-to-uncovering-a-high-severity-cve-6ed52b5f618f?source=rss------bug_bounty-5) 
+ - 💯August 4, 2025 - [Reflected XSS with Some SVG Markup Allowed](https://infosecwriteups.com/reflected-xss-with-some-svg-markup-allowed-65e24224d819?source=rss------bug_bounty-5) 
 
- - 💯August 2, 2025 - [️ JavaScript Recon via GitHub: Finding Secrets Before You Even Hit the App](https://medium.com/@narendarlb123/%EF%B8%8F-javascript-recon-via-github-finding-secrets-before-you-even-hit-the-app-cb88e36bc0d7?source=rss------bug_bounty-5) 
+ - 💯August 3, 2025 - [Uncovering SQL Injection](https://medium.com/@0x0mahmoud/uncovering-sql-injection-db784a309b48?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
