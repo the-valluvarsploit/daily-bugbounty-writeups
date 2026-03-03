@@ -2,23 +2,23 @@
 This repository contains Bug Bounty writeups
 
 <!-- BLOG-POST-LIST:START -->
- - 💯March 1, 2026 - [Host Header Injection: The Quiet Vulnerability That Breaks Trust](https://medium.com/@Purushothamr/host-header-injection-the-quiet-vulnerability-that-breaks-trust-aea3eb2cdb77?source=rss------bug_bounty-5) 
+ - 💯March 3, 2026 - [I Made a Store Pay Me to Buy a $1337 Jacket — On Holi.](https://tsaubhage0007.medium.com/i-made-a-store-pay-me-to-buy-a-1337-jacket-on-holi-266c78c6b275?source=rss------bug_bounty-5) 
 
- - 💯March 1, 2026 - [“Stop Using Google for Recon. Seriously.”](https://medium.com/@padhyepushkar/stop-using-google-for-recon-seriously-f5ceea631ff8?source=rss------bug_bounty-5) 
+ - 💯March 3, 2026 - [The “Intended Behavior” Gaslight: The Broken Reality of Bug Bounty Bureaucracy](https://osintteam.blog/the-intended-behavior-gaslight-the-broken-reality-of-bug-bounty-bureaucracy-bd7798331184?source=rss------bug_bounty-5) 
 
- - 💯March 1, 2026 - [Bug Bounty Platforms: How to Choose the Right Programs &lpar;And Avoid Instant Rejection&rpar;](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/bug-bounty-platforms-how-to-choose-the-right-programs-and-avoid-instant-rejection-8c2b2c80c225?source=rss------bug_bounty-5) 
+ - 💯March 3, 2026 - [Exploiting Server-Side Parameter Pollution in a REST URL](https://meetcyber.net/exploiting-server-side-parameter-pollution-in-a-rest-url-9881fe6bddbf?source=rss------bug_bounty-5) 
 
- - 💯February 28, 2026 - [Critical Web3 Vulnerability: Full Account Takeover via Arbitrary Internal Self-Calls in Smart…](https://medium.com/@HackerMD/critical-web3-vulnerability-full-account-takeover-via-arbitrary-internal-self-calls-in-smart-84a5646ba66b?source=rss------bug_bounty-5) 
+ - 💯March 3, 2026 - [From Zero to Recon: How Beginners Can Start Bug Bounty Hunting the Smart Way](https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/from-zero-to-recon-how-beginners-can-start-bug-bounty-hunting-the-smart-way-bd65d3f9234a?source=rss------bug_bounty-5) 
 
- - 💯February 28, 2026 - [Extracting Installed Applications &lpar;APK&rpar; from Android](https://medium.com/@theodoroucharalabos/extracting-installed-applications-apk-from-android-aef90822d551?source=rss------bug_bounty-5) 
+ - 💯March 3, 2026 - [The Secret Bug Hunter Browser Extension Replaced Burp](https://medium.com/@tanjimul_islam/the-secret-bug-hunter-browser-extension-replaced-burp-26f5d226e682?source=rss------bug_bounty-5) 
 
- - 💯February 28, 2026 - [The-Ultimate-Nuclei-Guide For Hackers In 2026:-](https://mainekhacker.medium.com/the-ultimate-nuclei-guide-for-hackers-in-2026-603d6aa2ad4d?source=rss------bug_bounty-5) 
+ - 💯March 3, 2026 - [The Trilogy of Abusing Sign Up Page](https://hantake.medium.com/the-trilogy-of-abusing-sign-up-page-c90d6515954b?source=rss------bug_bounty-5) 
 
- - 💯February 28, 2026 - [DVWA: Command Injection Vulnerability &lpar;Low Security&rpar;](https://medium.com/@Kamal_S/dvwa-command-injection-vulnerability-low-security-073f99105889?source=rss------bug_bounty-5) 
+ - 💯March 3, 2026 - [Guía de Waybackurls: Extracción de URLs Históricas para Bug Bounty](https://medium.com/@jpablo13/gu%C3%ADa-de-waybackurls-extracci%C3%B3n-de-urls-hist%C3%B3ricas-para-bug-bounty-0c16c5942cfd?source=rss------bug_bounty-5) 
 
- - 💯February 28, 2026 - [Lab: DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded](https://medium.com/@may.hack/lab-dom-xss-in-angularjs-expression-with-angle-brackets-and-double-quotes-html-encoded-a3233f24a651?source=rss------bug_bounty-5) 
+ - 💯March 2, 2026 - [The Role of a Smart Contract Security Researcher](https://medium.com/@iamabraham/the-role-of-a-smart-contract-security-researcher-e296b20f273c?source=rss------bug_bounty-5) 
 
- - 💯February 28, 2026 - [“Bug Bounty Bootcamp #26: SQL Injection Fundamentals — Learning to Speak the Database’s Language”](https://osintteam.blog/bug-bounty-bootcamp-26-sql-injection-fundamentals-learning-to-speak-the-databases-language-9cafd7bb6b40?source=rss------bug_bounty-5) 
+ - 💯March 2, 2026 - [Bug Bounty Cheatsheet Worth 7890$](https://anontriager.medium.com/bug-bounty-cheatsheet-worth-7890-fa163d281067?source=rss------bug_bounty-5) 
 
- - 💯February 28, 2026 - [How I Earned a €700 Bounty from an Information Disclosure Vulnerability](https://doordiefordream.medium.com/how-i-earned-a-700-bounty-from-an-information-disclosure-vulnerability-79a246e10116?source=rss------bug_bounty-5) 
+ - 💯March 2, 2026 - [The False Promise of Multi Login Isolation: An Architectural “Identity Bridge” in Google’s…](https://medium.com/@Pwnedl0l/the-false-promise-of-multi-login-isolation-an-architectural-identity-bridge-in-googles-080d8db462d4?source=rss------bug_bounty-5) 
 <!-- BLOG-POST-LIST:END -->
